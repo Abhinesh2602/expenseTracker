@@ -1,0 +1,36 @@
+.iconContainer {
+  all: unset;
+  background-color: #f1f1f1;
+  cursor: pointer;
+  border-radius: 50%;
+  height: 37px;
+  width: 37px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+  color: #222222;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+}
+
+.pageContainer {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  position: absolute;
+  bottom: 10px;
+  left: 41%;
+}
+
+.pageNumber {
+  all: unset;
+  color: white;
+  background-color: #43967b;
+  height: 37px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 37px;
+  cursor: pointer;
+  border-radius: 5px;
+}

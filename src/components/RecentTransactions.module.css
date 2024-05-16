@@ -1,0 +1,72 @@
+.wrapper {
+  height: 345.05px;
+  width: 738.33px;
+  background-color: white;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  z-index: 0;
+}
+
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.iconContainer {
+  all: unset;
+  background-color: #d9d9d9;
+  cursor: pointer;
+  border-radius: 50%;
+  height: 38px;
+  width: 38px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+  color: white;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+}
+
+.transaction {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.transactionsContainer {
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.expenseName {
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+}
+
+.expenseDetails {
+  display: flex;
+  flex-direction: column;
+  padding-left: 10px;
+}
+
+.expenseDetails p {
+  all: unset;
+  margin-bottom: 1px;
+}
+
+.expenseDetails p:last-child {
+  color: #9b9b9b;
+}
+
+.divider {
+  width: 100%;
+  height: 2px;
+  background-color: #9b9b9b;
+  margin-top: -10px;
+}

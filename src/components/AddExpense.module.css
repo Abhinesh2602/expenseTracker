@@ -1,0 +1,24 @@
+.wrapper {
+  border-radius: 15px;
+  background: rgba(239, 239, 239, 0.85);
+  position: absolute;
+  z-index: 101;
+  width: 538px;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  height: 335px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.form {
+  display: grid;
+  grid-template-columns: 223px 223px;
+  grid-template-rows: 51px 51px 51px;
+  grid-template-areas: "title price";
+  gap: 22px;
+  justify-content: center;
+  align-content: center;
+}

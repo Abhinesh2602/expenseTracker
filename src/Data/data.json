@@ -1,0 +1,72 @@
+[
+  {
+    "id": "8f70babe-78af-42e2-afcd-fad7e11eeb6e",
+    "title": "MOVIE",
+    "price": "600",
+    "category": "Entertainment",
+    "date": "2022-06-06"
+  },
+  {
+    "id": "4766a840-5d19-41fc-94ab-6c4a6e45b2e8",
+    "title": "Dinner",
+    "price": "50",
+    "category": "Food",
+    "date": "2023-05-15"
+  },
+  {
+    "id": "ba6bc30f-f78f-43f5-88f1-2ad0e9d9f5e3",
+    "title": "Cricket",
+    "price": "40",
+    "category": "Travel",
+    "date": "2023-05-14"
+  },
+  {
+    "id": "eab2c1aa-8d29-454e-9644-22a5273ef93f",
+    "title": "Groceries",
+    "price": "100",
+    "category": "Food",
+    "date": "2023-05-13"
+  },
+  {
+    "id": "b47e23e8-332d-4d92-88ad-29b3b5b4fb68",
+    "title": "Flight Tickets",
+    "price": "20",
+    "category": "Travel",
+    "date": "2023-05-12"
+  },
+  {
+    "id": "8a69213b-dfcb-4d15-bba8-276055c7762b",
+    "title": "Concert tickets",
+    "price": "200",
+    "category": "Entertainment",
+    "date": "2023-05-11"
+  },
+  {
+    "id": "c7b8f8f8-7781-4b20-bd5a-67cf4f3b9e47",
+    "title": "Books",
+    "price": "30",
+    "category": "Entertainment",
+    "date": "2023-05-10"
+  },
+  {
+    "id": "9eef3ad2-b7ed-477b-8018-688a83a8487b",
+    "title": "Lunch",
+    "price": "80",
+    "category": "Food",
+    "date": "2023-05-09"
+  },
+  {
+    "id": "f70f8d24-4596-46ff-8e51-3ae320dc8fd4",
+    "title": "Trip",
+    "price": "150",
+    "category": "Travel",
+    "date": "2023-05-08"
+  },
+  {
+    "id": "87915ff7-e28e-4193-9208-84b667509d72",
+    "title": "Coffee",
+    "price": "5",
+    "category": "Food",
+    "date": "2023-05-07"
+  }
+]
